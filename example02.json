@@ -1,0 +1,14 @@
+{
+  "en": {
+    "addtocart": "Add to cart",
+    "proceedtocheckout": "Go to checkout",
+    "tax": "Tax",
+    "price": "price"
+  },
+  "da": {
+    "addtocart": "Put i kurv",
+    "proceedtocheckout": "Gå til betaling",
+    "tax": "Moms",
+    "price": "pris"
+  }
+}
